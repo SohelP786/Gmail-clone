@@ -1,0 +1,518 @@
+.div1{
+	height:53px;
+	width:100%;
+	border-bottom: 1px solid #eef0e6;
+	float:left;
+
+
+
+}
+.div2{
+	height:50px;
+	width:3%;
+	float:left;
+	margin-left:10px;
+	margin-top:15px;
+
+}
+.div3
+{
+height:50px;
+width:5%;
+float:left;
+}
+.div4
+{
+	height: 50px;
+	width: 6%;
+	float: left;
+}
+.div5
+{
+	height: 50px;
+	width: 50%;
+	float: left;
+	border-radius: 10px;
+	background-color: #eef0e6;
+	margin-left: 60px;
+}
+.div6
+{
+	height: 50px;
+	width: 1%;
+	float: left;
+	}
+	.div7
+	{
+		height: 50px;
+		width: 10%;
+		float: left;
+	}
+	.div8
+	{
+		height: 50px;
+		width: 10%;
+		float:right;
+	}
+	.div9
+	{
+		height: 50px;
+		width: 10%;
+		float:right;
+		margin-top:20px;
+	}
+
+     .div10
+     {
+     	height: 50px;
+     	width: 2%;
+     	float: left;
+     	margin-left: 180px;
+     	
+     }
+	
+	.div11
+	{
+		height: 50px;
+		width: 2%;
+		float:left;
+		margin-left: 20px;
+		
+	}
+.div12
+{
+		height: 50px;
+		width: 2%;
+		float:left;
+		margin-left: 20px;
+		
+	}
+	.div13
+	{
+		height: 40px;
+		width: 3%;
+		margin-left: 20px;
+		margin-top: 6px;
+		float: left;
+		
+		border-radius: 100%;
+	}
+	.div14
+	{
+		height: 620px;
+		width: 19%;
+		float: left;
+		
+	}
+	.div15
+	{
+		height: 50px;
+		width: 50%;
+		float: left;
+		margin-top:20px;
+		margin-left:20px;
+		border-radius:40px;
+		box-shadow:5px 10px 4px -9px gray;
+		border:1px solid gray;
+	}
+	.div16
+	{
+		height: 35px;
+		width: 5%;
+		float: left;
+		
+	}
+	.div17
+	{
+		height:35px;
+		width: 95%;
+		float: left;
+		margin-top:30px;
+		border-radius:30px;
+		background-color:rgba(355, 0, 0, 0.1);
+	}
+	.div18
+	{
+		height:35px;
+		width: 70%;
+		float: right;
+		margin-right:0px;
+		padding:-40px;
+
+
+	}
+	.div19
+	{
+		height:35px;
+		width: 95%;
+		float: left;
+		margin-top:opx;
+		border-radius:30px;
+		
+	}
+	.div20
+	{
+		height:35px;
+		width: 70%;
+		float: right;
+		padding:-40px;
+
+
+	}
+	.div21
+	{
+		height:35px;
+		width: 95%;
+		float: left;
+		border-radius:30px;
+		
+	}
+	.div22
+	{
+		height:35px;
+		width: 70%;
+		float: right;
+		padding:-40px;
+
+
+	}
+	.div23
+	{
+		height:35px;
+		width: 95%;
+		float: left;
+		border-radius:30px;		
+	}
+	.div24
+	{
+		height:35px;
+		width: 70%;
+		float: right;
+		padding:-40px;
+
+
+	}
+	.div25
+	{
+		height:35px;
+		width: 95%;
+		float: left;
+		border-radius:30px;		
+	}
+	.div26
+	{
+		height:35px;
+		width: 70%;
+		float: right;
+		padding:-40px;
+
+
+	}
+	.div27
+	{
+		height:35px;
+		width: 95%;
+		float: left;
+		border-radius:30px;		
+	}
+	.div28
+	{
+		height:35px;
+		width: 70%;
+		float: right;
+		padding:-40px;
+
+
+	}
+	.div29
+	{
+		height: 0px;
+		width: 100%;
+		float: left;
+		border-top: 1px solid lightgrey;
+	}
+	.div30
+	{
+		height:35px;
+		width: 95%;
+		float: left;
+		border-radius:30px;		
+	}
+	.div31
+	{
+		height:35px;
+		width: 70%;
+		float: right;
+		padding:-40px;
+
+
+	}
+	.div32
+	{
+		height:35px;
+		width: 95%;
+		float: left;
+		border-radius:30px;		
+	}
+	.div33
+	{
+		height:35px;
+		width: 70%;
+		float: right;
+		padding:-40px;
+
+
+	}
+	.div34
+	{
+		height: 0px;
+		width: 100%;
+		float: left;
+		border-top: 1px solid lightgrey;
+	}
+	.div35
+	{
+		height:35px;
+		width: 95%;
+		float: left;
+		margin-top: -8px;
+	}
+	.div36
+	{
+		height:35px;
+		width: 95%;
+		float: left;
+		margin-top: -8px;
+	}
+	.div37
+	{
+		height:35px;
+		width: 95%;
+		float: left;
+		border-radius:30px;		
+	}
+	.div38
+	{
+		height:35px;
+		width: 70%;
+		float: right;
+		padding:-40px;
+
+
+	}
+	.div39
+	{
+		height: 0px;
+		width: 100%;
+		float: left;
+		margin-top: 10px;
+		border-top: 1px solid lightgrey;
+	}
+	.div40
+	{
+		height: 80px;
+		width: 100%;
+		float: left;
+		
+	}
+	.div41
+	{
+		height: 45px;
+		width: 100%;
+		float: left;
+		border-top: 1px solid lightgrey;
+	}
+	.div42
+	{
+		height: 50px;
+		width: 80.5%;
+		float: left;
+		border-bottom: 1px solid #eef0e6;
+	}
+	.total
+	{
+	    height: 673px;
+	    width: 100%;
+	    float: left;
+	    
+	}
+	.div43
+	{
+		height: 40px;
+		width: 3%;
+		float: left;
+		margin-top: 4px;
+		
+	}
+	.div44
+	{
+		height: 40px;
+		width: 2%;
+		float: left;
+		margin-left: 5px;
+		margin-top: 4px;
+		
+	}
+	.div45
+	{
+		height: 40px;
+		width: 3%;
+		float: left;
+		margin-left: 30px;
+		margin-top: 4px;
+		
+	}
+	.div46
+	{
+		height: 40px;
+		width: 1%;
+		float: left;
+		margin-left: 20px;
+		margin-top: 4px;
+		
+	}
+	.div47
+	{
+		height: 40px;
+		width: 9%;
+		float: left;
+		margin-left: 630px;
+		margin-top: 4px;
+		
+	}
+	.div48
+	{
+		height: 40px;
+		width: 2%;
+		float: left;
+		margin-left: 15px;
+		margin-top: 4px;
+		
+	}
+	.div49
+	{
+		height: 40px;
+		width: 2%;
+		float: left;
+		margin-left: 20px;
+		margin-top: 4px;
+		
+	}
+	.div50
+	{
+		height: 40px;
+		width: 2%;
+		float: left;
+		margin-left: 20px;
+		margin-top: 4px;
+		
+	}
+	.div51
+	{
+		height: 40px;
+		width: 2%;
+		float: left;
+		margin-left: 10px;
+		margin-top: 4px;
+		
+	}
+	.div52
+	{
+		height: 70px;
+		width: 80.5%;
+		float: left;
+		border-top:1px solid lightgrey ;
+		border-bottom: 1px solid lightgrey;
+		
+	}
+	.div53
+	{
+		height: 60px;
+		width: 23%;
+		float: left;
+		border-bottom: 3px solid red;
+		margin-top: 10px;
+	}
+	.div54
+	{
+		height: 70px;
+		width: 23%;
+		float: left;
+		margin-left: 8px;
+		
+	}
+	.div55
+	{
+		height: 70px;
+		width: 15%;
+		float: left;
+	}
+	.div56
+	{
+		height: 24px;
+		width: 31%;
+		float: right;
+		border-radius: 50px;
+		margin-top: 7px;
+		margin-right: 87px;
+		background-color:red;
+	}
+	.div57
+	{
+		height: 70px;
+		width: 23%;
+		float: left;
+		margin-left: 20px;
+	}
+	.div58
+	{
+		height: 50px;
+		width: 80.5%;
+		float: left;
+		border-bottom: 1px solid lightgrey;
+	}
+	.div59
+	{
+      height: 100%;
+      width: 3%;
+      float: left;
+	}
+	.div60
+	{
+      height: 100%;
+      width: 3%;
+      float: left;
+	}
+	.div61
+	{
+      height: 100%;
+      width: 92%; 
+      margin-left: 10px;
+      float: left;
+	}
+	.div62
+	{
+		height: 50px;
+		width: 100%;
+		float: left;
+		border-bottom: 1px solid lightgrey;
+	}
+	.div63
+	{
+      height: 100%;
+      width: 3%;
+      float: left;
+	}
+	.div64
+	{
+      height: 100%;
+      width: 3%;
+      float: left;
+	}
+	.div65
+	{
+      height: 100%;
+      width: 92%; 
+      margin-left: 10px;
+      float: left;
+	
